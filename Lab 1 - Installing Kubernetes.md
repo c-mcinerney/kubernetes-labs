@@ -327,3 +327,6 @@ http://127.0.0.1:8001/api/v1/namespaces/kube-system/services/http:kubernetes-das
 
 ## Done with Lab 1 - Installation
 You should now have a running Kubernetes cluster built on DC/OS! In the next labs we will go over Day 2 operational tasks such as Updating to HA, Component Failure, App Deployment, Scaling, and Upgrading your Kubernetes cluster
+
+[Return to Labs](https://github.com/c-mcinerney/kubernetes-labs)
+[Proceed to lab 2]()
