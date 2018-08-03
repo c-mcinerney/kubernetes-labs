@@ -31,20 +31,6 @@ Your instructor has set up lab enviroments and will hand out IP addresses and cr
 
 ![](https://i.imgur.com/rIJ1ZxF.png)
 
-# Course Material
-
-The instructor will give you access to the presentation. 
-
-# Reference
-
-* Building a Data Science Pipeline (TensorFlow with Kubeflow) [HERE](https://mesosphere.com/resources/building-data-science-platform/) 
-* Kubernetes Cheatsheet [HERE](https://mesosphere.com/resources/kubernetes-cheatsheet/)
-* Other DC/OS demos [HERE](https://github.com/dcos/demos/) 
-<!--- * Community links [HERE]() --->  
-* Kubernetes Up & Running [HERE](https://mesosphere.com/resources/running-kubernetes-oreilly-ebook/)
-
-<img src="https://mesosphere.com/wp-content/uploads/2017/09/running-kubernetes_oreilly-ebook.png" width="40%">
-
 # Sponsors
 
 <img src="https://mesosphere.com/wp-content/uploads/2017/11/mesosphere-logo.png" width="40%">
