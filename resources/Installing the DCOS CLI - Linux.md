@@ -22,6 +22,6 @@ Follow the instructions in the DC/OS CLI. For more information about security, s
 
 Your CLI should now be authenticated with your cluster! Enter dcos to get started.
 
-Return to [Lab 1]https://github.com/c-mcinerney/kubernetes-labs/blob/master/Lab%201%20-%20Installing%20Kubernetes.md
+[Return to Lab 1](https://github.com/c-mcinerney/kubernetes-labs/blob/master/Lab%201%20-%20Installing%20Kubernetes.md)
 
  
