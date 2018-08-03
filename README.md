@@ -8,7 +8,7 @@
 - Lab 5 - Running Apps
 - Lab 6 - Scaling Kubernetes
 - Lab 7 - Adding External Ingress
-- Lab 8 - Kafka Streams Airline Prediction App- Lab 3 - Kubernetes Self-Healing
+- Lab 8 - Kafka Streams Airline Prediction App
 
 Mesosphere DC/OS transforms any infrastructure into a Kubernetes cloud provider, automating Kubernetes everywhere: 
 
