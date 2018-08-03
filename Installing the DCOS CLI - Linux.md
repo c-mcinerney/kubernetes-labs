@@ -1,4 +1,4 @@
-# Installing the DC/OS CLI
+# Installing the DC/OS CLI - Linux
 
 Download the DC/OS CLI binary (dcos) to your local directory (for example, /usr/local/bin/).
 ```
