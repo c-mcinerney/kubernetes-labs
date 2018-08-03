@@ -18,5 +18,5 @@ Set up the connection from the CLI to your DC/OS cluster. In this example, http:
 ```
 dcos cluster setup http://example.com
 ```
-
+[Return to Lab 1](https://github.com/c-mcinerney/kubernetes-labs/blob/master/Lab%201%20-%20Installing%20Kubernetes.md)
 
