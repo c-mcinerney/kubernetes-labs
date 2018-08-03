@@ -16,28 +16,24 @@ Mesosphere DC/OS transforms any infrastructure into a Kubernetes cloud provider,
 * Virtual machines
 * Multi-clouds
 
+# Sign up for Slack!
+Slack URL: https://chat.dcos.io/
+Join #kubernetes channel 
+
+
+
 # Background
 
 Your instructor has set up lab enviroments and will hand out IP addresses and credentials. After the course, you can install an open source DC/OS cluster 
 * **Public Cloud Installation** - Kubernetes with DC/OS Quickstart (public cloud) for when go home [HERE](https://github.com/mesosphere/dcos-kubernetes-quickstart)
 * **On Premise Installation** - DC/OS with Ansible [HERE](https://github.com/dcos-labs/ansible-dcos) 
-* **Slack** - Join DC/OS Slack [HERE](https://chat.dcos.io/)
+
 
 ![](https://i.imgur.com/rIJ1ZxF.png)
 
 # Course Material
 
 The instructor will give you access to the presentation. 
-
-# Automate Kubernetes
-
-Create and manager your first Kubernetes cluster by following labs [HERE](https://github.com/chrisgaun/Manage-Kubernetes-with-DCOS-Days/blob/master/Labs/Lab%201%20-%20Installing%20Kubernetes.md)
-
-# Fill Out Survey
-
-We are always looking to add material to the course. 
-
-Please fill out our survey found [HERE](https://goo.gl/forms/ougjUYkLablAdChQ2) 
 
 # Reference
 
