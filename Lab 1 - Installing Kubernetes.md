@@ -1,4 +1,4 @@
-## Step 1: Set Up DC/OS Command Line on your Local Machine
+## Step 1: Set Up DC/OS Command Line from the web interface on your Local Machine
 
 Set up the DC/OS command line by clicking on the top left and choosing "install CLI"
 
@@ -63,6 +63,9 @@ The output should be a list of nodes in the cluster:
   10.0.0.101   10.0.0.101  94141db5-28df-4194-a1f2-4378214838a7-S0   agent            aws/us-west-2  aws/us-west-2a  
   10.0.2.100   10.0.2.100  94141db5-28df-4194-a1f2-4378214838a7-S4   agent            aws/us-west-2  aws/us-west-2a
 ```
+### [Optional: Set up DC/OS Command Line on a Windows client](https://github.com/c-mcinerney/kubernetes-labs/edit/master/resources/Installing%20the%20DCOS%20CLI%20-%20Windows.md)
+### [Optional: Set up DC/OS Command Line on a MAC client](https://github.com/c-mcinerney/kubernetes-labs/blob/master/resources/Installing%20the%20DCOS%20CLI%20-%20MAC.md)
+### [Optional: Set up DC/OS Command Line on a Linux client](https://github.com/c-mcinerney/kubernetes-labs/blob/master/resources/Installing%20the%20DCOS%20CLI%20-%20Linux.md)
 
 ### Optional: Set Up DC/OS Command Line on the DC/OS Bootstrap Bastion Host
 
