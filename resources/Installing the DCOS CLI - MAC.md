@@ -14,3 +14,7 @@ Set up the connection from the CLI to your DC/OS cluster. In this example, http:
 dcos cluster setup http://example.com
 ```
 Tip: If your system is unable to find the executable, you may need to re-open the command prompt or add the installation directory to your PATH environment variable manually.
+
+[Return to Lab 1](https://github.com/c-mcinerney/kubernetes-labs/blob/master/Lab%201%20-%20Installing%20Kubernetes.md)
+
+ 
