@@ -92,11 +92,11 @@ To begin we will be deploying Kubernetes v1.10.3. The latest is 1.10.5, however 
 To install Kubernetes enter this command into your terminal
 
 ```
-dcos package install kubernetes --package-version=1.1.0-1.10.3 --yes
+dcos package install kubernetes --package-version=1.1.1-1.10.4 --yes
 ```
 **NOTE:** If you attempt to install Kubernetes from the GUI, install the CLI on your local machine with the following command:
 ```
-dcos package install kubernetes --cli --package-version=1.1.0-1.10.3 --yes
+dcos package install kubernetes --cli --package-version=1.1.1-1.10.4 --yes
 ```
 
 You can see the installation runbook automation and status of installation of each component with this command
