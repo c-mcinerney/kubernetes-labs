@@ -1,5 +1,6 @@
 # Manage Kubernetes with DCOS
 # Agenda
+ [Lab IP Addresses](https://docs.google.com/spreadsheets/d/1b0FP3NyMhb00g5-EumFKxF5kgrPB1Bd7fJjSaBEl200/edit?usp=sharing)
  
 [Lab 1 - Installing Kubernetes](https://github.com/c-mcinerney/kubernetes-labs/blob/master/Lab%201%20-%20Installing%20Kubernetes.md)
 
