@@ -1,6 +1,6 @@
 Credit to Andrew Grzeskowiak for creating this demo for DC/OS
 
-## Kafka Streams Demo
+## Kafka Streams
 
 For this demo we will show you how easy it is to run your microservices and dataservices in one single DC/OS cluster using the same resources.
 
@@ -154,7 +154,7 @@ $ kubectl get pods
 $ dcos package uninstall confluent-kafka
 ```
 
-## Done with Lab 8
+## Kafka streams lab complete
 You just deployed a microservice application on DC/OS that easily connects to a Confluent Kafka dataservice running on the same cluster!
 
 
