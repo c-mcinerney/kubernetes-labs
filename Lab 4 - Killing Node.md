@@ -92,7 +92,7 @@ Kill the kubelet manually and watch the UI auto-heal the kubelet instance:
 ```
 dcos task exec -i kube-node-0-kubelet kill -9 3
 ```
-## Done with Lab 4
+## Killing node lab complete
 In the DC/OS UI you should be able to navigate to the Kubernetes service and watch these components of Kubernetes fail as we kill the processes. DC/OS is constantly monitoring your Kubernetes cluster so that critical components are auto-healed in failure scenarios
 
 [Labs home](https://github.com/c-mcinerney/kubernetes-labs)
