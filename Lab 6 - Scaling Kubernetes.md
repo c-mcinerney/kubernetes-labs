@@ -54,7 +54,7 @@ Verify from the CLI:
 dcos kubernetes plan status deploy
 ```
 
-## Done with Lab 5
+## Scaling Kubernetes lab complete
 After this lab you should have built a Kubernetes Cluster with these components:
 - Highly Available Control Plane
 	- 3x etcd instances
