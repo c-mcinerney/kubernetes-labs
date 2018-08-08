@@ -1,6 +1,6 @@
 [Kubernetes Service Documentation - External Ingress](https://docs.mesosphere.com/services/kubernetes/1.2.0-1.10.5/ingress/)
 
-# Lab 7 - Adding External Ingress and Exposing an Application
+# Adding External Ingress and Exposing an Application
 For this Lab we will install Traefik as our Kubernetes Ingress Controller to show a Hello World example
 
 ### Step 1: Scale Public Agent Node
@@ -231,7 +231,7 @@ Open in your browser:
 open http://<PUBLIC_KUBELET_IP>
 ```
 
-## Done with Lab 7
+## Adding External Ingress and Exposing an Application lab complete
 In this lab we have created a Kubernetes Ingress Controller object as well as deployed our Hello World application. After creating the remaining Service and Ingress objects, we now have a publicly exposed web application.
 
 
