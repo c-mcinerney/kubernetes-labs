@@ -325,7 +325,7 @@ Point your browser to:
 http://127.0.0.1:8001/api/v1/namespaces/kube-system/services/http:kubernetes-dashboard:/proxy/
 ```
 
-## Done with Lab 1 - Installation
+## Installing Kubernetes lab complete
 You should now have a running Kubernetes cluster built on DC/OS! In the next labs we will go over Day 2 operational tasks such as Updating to HA, Component Failure, App Deployment, Scaling, and Upgrading your Kubernetes cluster
 
 [Labs home](https://github.com/c-mcinerney/kubernetes-labs)
