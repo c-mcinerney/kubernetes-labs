@@ -1,4 +1,4 @@
-# Lab 2 - Upgrading Kubernetes on DC/OS
+# Upgrading Kubernetes on DC/OS
 As the velocity of the Kubernetes project continues to grow, non-disruptive upgrades are increasingly becoming more important so that Operations teams can deliver the latest and greatest features and improvements to their Development teams
 
 Below is information from documentation, which stronly suggest you backup before upgrading in Production. You can find the full documentation on upgrading the cluster [here](https://docs.mesosphere.com/services/kubernetes/1.2.0-1.10.5/upgrade/)
@@ -101,7 +101,7 @@ Once complete you can run the command below to see the `VERSION` of your Kuberne
 dcos package list
 ```
 
-## Done with Lab 2
+## Upgrading Kubernetes on DCOS lab complete
 If you are at this point you now have completed a non-disruptive upgrade of Kubernetes from 1.10.4 to 1.10.5. DC/OS makes it easy to perform upgrades and rollbacks for all of our frameworks including Kubernetes.
 
 [Labs home](https://github.com/c-mcinerney/kubernetes-labs)
