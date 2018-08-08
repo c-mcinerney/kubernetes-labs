@@ -1,4 +1,4 @@
-# Lab 3 - Going HA
+# Going HA
 
 In this lab we will go through both GUI and CLI methods for upgrading a Kubernetes cluster on DC/OS to be Highly Available
 
@@ -185,7 +185,7 @@ deploy (serial strategy) (COMPLETE)
    └─ mandatory-addons-0:[ark] (COMPLETE)
 ```
 
-## Done with Lab 3
+## Going HA lab complete
 Updating to High Availability is simple with Kubernetes on DC/OS. Small projects can start as non-HA to save resources and update to HA when moving projects to production.
 
 [Labs home](https://github.com/c-mcinerney/kubernetes-labs)
