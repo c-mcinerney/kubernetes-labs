@@ -26,17 +26,17 @@ $ dcos package describe kubernetes --package-versions
 ## Step 2: Update DC/OS Kubernetes CLI
 Before starting the update process, it is mandatory to update the CLI to the new version, in our case 1.2.0-1.10.5:
 ```
-dcos package install kubernetes --cli --package-version=1.2.0-1.10.5
+dcos package install kubernetes --cli --package-version=1.3.1-1.10.8
 ```
 
 ## Step 3: Initiate Upgrade:
 ```
-dcos kubernetes update --package-version=1.2.0-1.10.5
+dcos kubernetes update --package-version=1.3.1-1.10.8
 ```
 
 Output should look similar to below:
 ```
-$ dcos kubernetes update --package-version=1.2.0-1.10.5
+$ dcos kubernetes update --package-version=1.3.1-1.10.8
 About to start an update from version <CURRENT_VERSION> to <NEW_VERSION>
 
 Updating these components means the Kubernetes cluster may experience some
@@ -102,7 +102,7 @@ dcos package list
 ```
 
 ## Upgrading Kubernetes on DCOS lab complete
-If you are at this point you now have completed a non-disruptive upgrade of Kubernetes from 1.10.4 to 1.10.5. DC/OS makes it easy to perform upgrades and rollbacks for all of our frameworks including Kubernetes.
+If you are at this point you now have completed a non-disruptive upgrade of Kubernetes from 1.10.7 to 1.10.8. DC/OS makes it easy to perform upgrades and rollbacks for all of our frameworks including Kubernetes.
 
 [Labs home](https://github.com/c-mcinerney/kubernetes-labs)
 
