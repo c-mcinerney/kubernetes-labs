@@ -90,16 +90,16 @@ Your instructor will give you a tour of DC/OS UI and catalog.
 
 
 ## Step 2: Install Kubernetes 
-To begin we will be deploying Kubernetes v1.10.3. The latest is 1.10.5, however we will first deploy 1.10.3 so that we can show the non-disruptive upgrade to 1.10.5 in a later lab.
+To begin we will be deploying Kubernetes v1.10.7. The latest is 1.10.8, however we will first deploy 1.10.7 so that we can show the non-disruptive upgrade to 1.10.8 in a later lab.
 
 To install Kubernetes enter this command into your terminal
 
 ```
-dcos package install kubernetes --package-version=1.1.1-1.10.4 --yes
+dcos package install kubernetes --package-version=1.2.2-1.10.7 --yes
 ```
 **NOTE:** If you attempt to install Kubernetes from the GUI, install the CLI on your local machine with the following command:
 ```
-dcos package install kubernetes --cli --package-version=1.1.1-1.10.4 --yes
+dcos package install kubernetes --cli --package-version=1.2.2-1.10.7 --yes
 ```
 
 You can see the installation runbook automation and status of installation of each component with this command
